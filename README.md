@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=timeGradient&height=300&section=header&text=Wonseok's%20Note&fontSize=90&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=timeGradient&height=300&section=header&text=Wonseok's%20Note&fontSize=90&animation=fadeIn&desc=Wonseok's%20Develope%20Note)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jws020501&show_icons=true&theme=radical)
 
