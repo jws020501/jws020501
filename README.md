@@ -3,7 +3,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jws020501&show_icons=true&theme=radical)
 
 
-MY STACK
+## MY STACK
 
 
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=black) ![REACT](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=black) ![sochet.io](https://img.shields.io/badge/socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white) ![FireBase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)   ![Blockchain.com](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=Blockchain.com&logoColor=white)
