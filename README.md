@@ -25,7 +25,7 @@
   
   I live in suwon,korea
   
-  I majored in AIsoftware at DONG SEOUL UNIVERSITY but i'm drop out.   
+  I majored in AI software engineering at DONG SEOUL UNIVERSITY but i'm drop out.   
   
   I worked at "TLIFE" as a developor. 
   
