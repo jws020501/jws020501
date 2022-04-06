@@ -17,7 +17,15 @@
 <img src="https://img.shields.io/badge/Typescript-58a6ff?style=flat-square&logo=Typescript&logoColor=white"/>
 
 ## INTRODUCE
-
+  Hi guys! 
+  i'm Wonseok Cho, you can call me 'Wonseok'
+  i'm 21 years old in korean age and my birthday is May 1 
+  i live in suwon,korea 
+  i majored in AIsoftware at DONG SEOUL UNIVERSITY but i'm drop out.   
+  i worked at "TLIFE" as a developor. 
+  i spand my free time watching movie , play billiard sports and meet my friends :)
+  
+  
 
 ## CONTECT ME 
 
