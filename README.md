@@ -32,7 +32,7 @@
   I spand my free time watching movie , play billiard sports and meet my friends :)
   <br/>
   
-##INTERESTING THINGS
+## INTERESTING THINGS
 
 Blockchain , NFT , Dapp , Metaverse 
 
