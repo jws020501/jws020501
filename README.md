@@ -30,11 +30,12 @@
   I worked at "TLIFE" as a developor. 
   
   I spand my free time watching movie , play billiard sports and meet my friends :)
-  
+  <br/>
   
 ##INTERESTING THINGS
 
 Blockchain , NFT , Dapp , Metaverse 
+
 
 ## CONTECT ME 
 
