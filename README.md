@@ -16,11 +16,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/Typescript-58a6ff?style=flat-square&logo=Typescript&logoColor=white"/>
 
-## introduce
+## INTRODUCE
 
-Name : wonseok
-
-AGE : 19
 
 ## CONTECT ME 
 
