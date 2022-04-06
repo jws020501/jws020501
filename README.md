@@ -18,6 +18,7 @@
 
 ## INTRODUCE
   Hi guys! 
+  
   I'm Wonseok Cho, you can call me 'Wonseok'
   
   I'm 21 years old in korean age and my birthday is May 1 
@@ -30,7 +31,10 @@
   
   I spand my free time watching movie , play billiard sports and meet my friends :)
   
-##INTEREST THING 
+  
+##INTERESTING THINGS
+
+Blockchain , NFT , Metaverse
 
 ## CONTECT ME 
 
