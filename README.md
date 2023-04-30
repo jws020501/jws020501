@@ -23,7 +23,7 @@
   
   I'm 21 years old in korean age and my birthday is May 1 
   
-  I live in suwon,korea
+  I live in suwon in korea
   
   I majored in AI software engineering at DONG SEOUL UNIVERSITY but i'm drop out.   
   
