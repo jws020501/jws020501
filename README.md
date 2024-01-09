@@ -21,7 +21,7 @@
   
   I'm Wonseok Cho, you can call me 'Wonseok'
   
-  I'm 21 years old in korean age and my birthday is May 1 
+  I'm 22 years old in korean age and my birthday is May 1 
   
   I live in suwon in korea
   
