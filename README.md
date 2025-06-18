@@ -34,7 +34,7 @@
   
 ## INTERESTING THINGS
 
-Blockchain , NFT , Dapp , Metaverse 
+
 
 
 ## CONTECT ME 
