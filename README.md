@@ -21,15 +21,16 @@
   
   I'm Wonseok Cho, you can call me 'Wonseok'
   
-  I'm 24 years old in korean age and my birthday is May 1 
+  I'm 25 years old in korean age and my birthday is May 1 
   
   I live in suwon in korea
   
-  I majored in AI software engineering at DONG SEOUL UNIVERSITY but i'm drop out.   
-  
+  I majored in AI software engineering at DONG SEOUL UNIVERSITY but i'm drop out.
+  I studying in Korea Polytechnics AI software
+   
   I worked at "TLIFE" as a developor. 
   
-  I spand my free time watching movie , playing billiard sports and meet my friends :)
+  I spand my free time watching movie , play simracing and meet my friends :)
   <br/>
   
 ## INTERESTING THINGS
@@ -39,4 +40,4 @@
 
 ## CONTECT ME 
 
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/2_won_5_seok_1/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=wonseok020501@gmail.com)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/seok_my_xick/) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=wonseok020507@gmail.com)
